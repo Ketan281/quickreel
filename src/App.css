@@ -1,0 +1,9 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+canvas {
+  border: 2px solid #ccc;
+}
